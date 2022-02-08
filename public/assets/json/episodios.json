@@ -1,0 +1,338 @@
+[
+  {
+    "Episodio": 1,
+    "Entrevistado": "Fernanda Bernardo",
+    "Descricao": "Fernanda Bernardo fala sobre sua carreira de desenvolvimento, palestras, aprendizado, comunidades, cursos, meetups, eventos, futuro, taekwondo e forró.",
+    "Link": "https://www.youtube.com/watch?v=5xf-6FxTq90"
+  },
+  {
+    "Episodio": 2,
+    "Entrevistado": "Gabriel Rodrigues Couto",
+    "Descricao": "Gabriel Rodrigues Couto fala sobre sua carreira de desenvolvimento, liderança, comunidade, projetos open-source, emulador de gameboy, PHP e imitações.",
+    "Link": "https://www.youtube.com/watch?v=9R2FYhOjKKU"
+  },
+  {
+    "Episodio": 3,
+    "Entrevistado": "Jeferson Noronha",
+    "Descricao": "Jeferson Noronha fala sobre sua carreira devops, distros linux, evolução de sysadmin, carreira internacional, cervejas e ainda adivinha se é pokémon.",
+    "Link": "https://www.youtube.com/watch?v=Yuzfu90xNgs"
+  },
+  {
+    "Episodio": 4,
+    "Entrevistado": "Diana Arnos",
+    "Descricao": "Diana Arnos fala sobre sua carreira como dev e como lider,  PHP, educação, kung-fu, poker, trabalho remoto, palestras, metal e muito mais.",
+    "Link": "https://www.youtube.com/watch?v=ecyVbcEM03U"
+  },
+  {
+    "Episodio": 5,
+    "Entrevistado": "Danielle Monteiro",
+    "Descricao": "Danielle Monteiro fala sobre sua carreira como dev e depois como arquiteta de dados, SQL Server, noSQL, MVP, TedX, MongoDB World, comunidades, palestras e muito mais.",
+    "Link": "https://www.youtube.com/watch?v=7qSc7I5ILEU"
+  },
+  {
+    "Episodio": 6,
+    "Entrevistado": "Ana Luiza Bastos",
+    "Descricao": "Ana Luiza Bastos fala sobre sua carreira como dev, programação funcional, faculdade, eventos, comunidade, cosplay e muito mais",
+    "Link": "https://www.youtube.com/watch?v=mAsyyjkj7ho"
+  },
+  {
+    "Episodio": 7,
+    "Entrevistado": "Nickolas Silva",
+    "Descricao": "Nickolas fala sobre a vida de programador fora do país (em Berlin, na Alemanha ), como começou a carreira, estudos, comunidade, palestras, jogos e muito mais.",
+    "Link": "https://www.youtube.com/watch?v=YImJWxoYaH0"
+  },
+  {
+    "Episodio": 8,
+    "Entrevistado": "Marina Limeira",
+    "Descricao": "Marina Limeira fala sobre sua carreira como dev, robótica, faculdade, comunidades, open-source, séries, vinda para São Paulo e muito mais",
+    "Link": "https://www.youtube.com/watch?v=lvCAwKLlb4o"
+  },
+  {
+    "Episodio": 9,
+    "Entrevistado": "Joselito Junior",
+    "Descricao": "Joselito Júnior fala sobre sua carreira como desenvolvedor, pizzaria com cyber café, a evolução da web, blackberry, GDGs, DevFest Nordeste, DevFestXP, Recife, Google IO, palestras, mega-drive e muito mais.",
+    "Link": "https://www.youtube.com/watch?v=GNzmt0RK0MA"
+  },
+  {
+    "Episodio": 10,
+    "Entrevistado": "Charlotte",
+    "Descricao": "Mesmo rolando uma tempestade de ventos durante a gravaçao Charlotte fala sua ida a Suécia, começo de carreira, comunidades, dá uma aula sobre programação funcional e explica como funciona um MMO open-source.",
+    "Link": "https://www.youtube.com/watch?v=RVhEIy3-GDU"
+  },
+  {
+    "Episodio": 11,
+    "Entrevistado": "Alessandro Feitoza",
+    "Descricao": "Alessandro Feitoza conta sua história como desenvolvedor, como criou o PHP com Rapadura, como está levando tecnologia para o interior o Ceará, além de histórias de comunidade, palestras, do seu primeiro computador, PHPeste e muito mais.",
+    "Link": "https://www.youtube.com/watch?v=-UP1GhD-RMs"
+  },
+  {
+    "Episodio": 12,
+    "Entrevistado": "Renato Groffe",
+    "Descricao": "Renato Groffe fala sobre comunidade, carreira, artigos, faculdade, .Net, MVP e como dá conta de realizar tantos meetups e hangouts.",
+    "Link": "https://www.youtube.com/watch?v=DKDjbgKUh2E"
+  },
+  {
+    "Episodio": 13,
+    "Entrevistado": "Lhais Rodrigues",
+    "Descricao": "Lhais Rodrigues fala sobre o projeto Mete a Colher, desenvolvimento mobile, sua trajetória de carreira, liderança, comunidades e programação voltada a um propósito.",
+    "Link": "https://www.youtube.com/watch?v=npOuRILCyv4"
+  },
+  {
+    "Episodio": 14,
+    "Entrevistado": "Mauricio Maujor",
+    "Descricao": "Maujor fala sobre sua carreira de desenvolvimento, como funcionava a web das antigas e como funcionam as coisas hoje, como estudar para ser dev e muito mais na entrevista de hoje.",
+    "Link": "https://www.youtube.com/watch?v=Mupi8CG9tt8"
+  },
+  {
+    "Episodio": 15,
+    "Entrevistado": "Marcelo Camargo",
+    "Descricao": "Marcelo \"Haskell\" Camargo fala sobre como começou sua carreira. programação funcional, compiladores, projetos, linguagens de programação e muito mais.",
+    "Link": "https://www.youtube.com/watch?v=91mEw-yt7vM"
+  },
+  {
+    "Episodio": 16,
+    "Entrevistado": "Emmanuelle Richard",
+    "Descricao": "Emmanuelle Richard (the little big developer) fala sobre o início da sua jornada com a programação, os desafios de iniciar em programação sendo criança, suas palestras, as pessoas que a influenciaram, palestras, Campus Party, Ruby, Ionic, a vida de dev em Natal e até educação financeira.",
+    "Link": "https://www.youtube.com/watch?v=4Wyy-q5esR8"
+  },
+  {
+    "Episodio": 17,
+    "Entrevistado": "Otavio Santana",
+    "Descricao": "Otávio fala sobre seu inicio no desenvolvimento, seu início na comunidade, como foi sair de Salvador e ir para São Paulo,  como é trabalhar com contribuição em projetos de comunidade,  Java One, TDC, suas aventuras com inglês e nos Estados Unidos, seus reconhecimentos na comunidade, seus mentores e muito mais.",
+    "Link": "https://www.youtube.com/watch?v=5jgP__4Vshk"
+  },
+  {
+    "Episodio": 18,
+    "Entrevistado": "Alda Rocha",
+    "Descricao": "Alda conta sua história no mundo do desenvolvimento, web romântica, a importância da UX para o desenvolvimento, sua trajetória em palestras e eventos de TI, ensina a fazer café, sobre o coletivo codamos e muito mais.",
+    "Link": "https://www.youtube.com/watch?v=45eKNChhrR4"
+  },
+  {
+    "Episodio": 19,
+    "Entrevistado": "Gabriela Ferrara",
+    "Descricao": "Gabriela Ferrara fala sobre seu início com desenvolvimento, sua carreira dev, como começou a palestrar fora do país, banco de dados, os eventos dev e como é atuar como Developer Advocate no Google.",
+    "Link": "https://www.youtube.com/watch?v=yQTgyNyNzLU"
+  },
+  {
+    "Episodio": 20,
+    "Entrevistado": "Odinei Ribeiro",
+    "Descricao": "Odinei Ribeiro, um dos administradores do grupo Ruby Brasil fala sobre sua carreira, a comunidade Ruby, comunidade Python, como iniciar na carreira dev, a importância da RubyConf, como começar a palestrar, dicas valiosíssimas sobre comunidade e muito mais!",
+    "Link": "https://www.youtube.com/watch?v=YxvxHL6sLsY"
+  },
+  {
+    "Episodio": 21,
+    "Entrevistado": "Erick Wendel",
+    "Descricao": "Erick Wendel fala sobre seu começo com desenvolvimento, comunidades, carreira, meetups, nodeJS, o programa MVP,  palestras,em inglês e muito mais.",
+    "Link": "https://www.youtube.com/watch?v=_x60NFtZwb4"
+  },
+  {
+    "Episodio": 22,
+    "Entrevistado": "Camila Campos",
+    "Descricao": "Camila Campos explica sua trajetória como desenvolvedora. Como estudou, faculdade, os motivos de saber tanto sobre qualidade de código,  Ruby, comunidade, Rails Girls, Wo Makers Code, palestras, como funciona trabalhar em uma equipe com liberdade, pair programming numa conversa bem descontraída.",
+    "Link": "https://www.youtube.com/watch?v=V8c102zHL6o"
+  },
+  {
+    "Episodio": 23,
+    "Entrevistado": "Eduardo Matos",
+    "Descricao": "Eduardo Matos conta sua experiência com o início do desenvolvimento web, história do JavaScript, frameworks javascript, comunidade, estrutura de desenvolvimento de softwares, o podcast topíssimo DEVNAESTRADA, como é ser fullstack e como é ser CTO. Além de palestras e muito mais.",
+    "Link": "https://www.youtube.com/watch?v=ENTsStkKqrg"
+  },
+  {
+    "Episodio": 24,
+    "Entrevistado": "Wellington Silva",
+    "Descricao": "Wellington Silva fala sobre sua carreira como dev e sysadmin, sobre docker, docker swarm e kubernetes, eventos no exterior, palestras no exterior, networking e como é escrever um livro..",
+    "Link": "https://www.youtube.com/watch?v=ga2mkWh8rFY"
+  },
+  {
+    "Episodio": 25,
+    "Entrevistado": "Ahirton Lopes",
+    "Descricao": "Ahirton Lopes dá um xow sobre inteligência artificial, fala sobre algoritmos, academia, ciclos de tecnologia, comunidade, chatbots, plataformas cognitivas, mudança de estado..",
+    "Link": "https://www.youtube.com/watch?v=8YD_t20XAq8"
+  },
+  {
+    "Episodio": 26,
+    "Entrevistado": "Alexandre Magoo Costa",
+    "Descricao": "Alexandre Magoo Costa conta  como começou a programar, sua trajetória da carreira, tecnologias desktop, web e mobile, comunidade, como é seu dia a dia como dev.",
+    "Link": "https://www.youtube.com/watch?v=nxvTfPdUbM8"
+  },
+  {
+    "Episodio": 27,
+    "Entrevistado": "Ítalo José",
+    "Descricao": "Italo José fala sobre o início da sua carreira, visão computacional, linguagens para inteligência artificial, o uso de C++ para projetos mais performáticos, comunidade, palestras e muito mais.",
+    "Link": "https://www.youtube.com/watch?v=iWg7raQcnaY"
+  },
+  {
+    "Episodio": 29,
+    "Entrevistado": "Morganna Giovanelli",
+    "Descricao": "Morganna fala sobre sua carreira de desenvolvimento, C#, a criação do Caqui Coders, faculdade, comunidade, hackathons, dificuldades na área de desenvolvimento e muito mais.",
+    "Link": "https://youtu.be/1Sg59V6GrdU"
+  },
+  {
+    "Episodio": 30,
+    "Entrevistado": "Cynthia Zanoni",
+    "Descricao": "Cynthia conta como construiu sua carreira, Mozilla Foundation, criação de comunidades, expansão para outras cidades, open source na Microsoft, Wo Makers Code, Women Dev Summit, palestras, protagonismo das mulheres em TI e muito mais.",
+    "Link": "https://youtu.be/gAsb1JXwWxw"
+  },
+  {
+    "Episodio": 31,
+    "Entrevistado": "Natali Cabral",
+    "Descricao": "Nàtali Cabral fala sobre desenvolvimento, QA (analista de qualidade / testers), carreira, seu sonho de trabalho QA Ladies, integração entre times, testes de aplicações e muito mais.",
+    "Link": "https://youtu.be/9ws6bfongm8"
+  },
+  {
+    "Episodio": 32,
+    "Entrevistado": "George Guimarães",
+    "Descricao": "George Guimarães fala sobre sua carreira como dev, sysadmin, negócios, como foi a criação da Plataformatec, Ruby no Brasil e nos projetos, Rails, Phoenix, soft skills, open source, seu novo projeto Ebert, como começou a palestrar, startups e muito mais.",
+    "Link": "https://youtu.be/s9oUayX0TPM"
+  },
+  {
+    "Episodio": 33,
+    "Entrevistado": "Marco Bruno",
+    "Descricao": "Marco Bruno conta sua história em desenvolvimento, seu primeiro computador, sua evolução nas empresas, seus estudos, entrevistas,  streaming de código, o projeto Collabcode, ensino de devs juniores para vagas remotas, Impulso e muito mais.",
+    "Link": "https://youtu.be/4G8mq13nQxk"
+  },
+  {
+    "Episodio": 34,
+    "Entrevistado": "Elton Minetto",
+    "Descricao": "Elton Minetto fala sobre o início da web no Brasil, primeiras comunidades dev do Brasil, criatividade, eventos, empreendedorismo, PHP, Golang, desafios de ser CTO, palestras, educação e muito mais.",
+    "Link": "https://youtu.be/lIsieK5f8EM"
+  },
+  {
+    "Episodio": 35,
+    "Entrevistado": "Matheus Gontijo",
+    "Descricao": "Matheus Gontijo fala sobre sua carreira como dev, agências, e-commerce, morar fora do país, trabalhar para os Estados Unidos, a importância do inglês para devs e muito mais!",
+    "Link": "https://youtu.be/WXs2-f3xCWA"
+  },
+  {
+    "Episodio": 36,
+    "Entrevistado": "Marcel dos Santos",
+    "Descricao": "Marcel dos Santos fala sobre sua carreira como desenvolvedor, participação em comunidades de software, linguagens de programação como PHP e JavaScript, programação funcional, eventos de tecnologia, curadoria de eventos e muito mais!",
+    "Link": "https://www.youtube.com/watch?v=Vouzar5l1Q4"
+  },
+  {
+    "Episodio": 37,
+    "Entrevistado": "Jeff Prestes",
+    "Descricao": "Jeff conta a história de sua carreira, desde as primeiras linguagens: DBASE 3 PLUS e Clipper, passando por visual basic até os dias atuais com Golang, SOS computadores, história da programação e da web, ACCESS, blockchain, chatbots, carreiras e muito mais nessa entrevista sensacional!",
+    "Link": "https://www.youtube.com/watch?v=JOKB2QQllmg"
+  },
+  {
+    "Episodio": 38,
+    "Entrevistado": "Afonso Pacifer",
+    "Descricao": "Afonso fala sobre seu início com desenvolvimento, passando pela época de desenvolvimento com pouca qualidade até a virada que foi participar de um Front In BH. Conversamos sobre JavaScript, CSS e HTML, a história da web, jquery, gerenciadores de dependências, Pré-processadores CSS, frameworks, vanilla.JS, a importância de se estudar a base no desenvolvimento, comunidades e muito mais.",
+    "Link": "https://www.youtube.com/watch?v=ALjRWVJIJ4c"
+  },
+  {
+    "Episodio": 39,
+    "Entrevistado": "Alefe Souza",
+    "Descricao": "Alefe Souza fala sobre o seu início em desenvolvimento, como desenvolveu extensões de google chrome, aplicativos mobile e diversos sistemas. Como a comunidade foi importante para a sua carreira, linguagens de programação, meetup em inglês e muito mais.",
+    "Link": "https://www.youtube.com/watch?v=V1Q_sHD-8Vg"
+  },
+  {
+    "Episodio": 40,
+    "Entrevistado": "Keilla Menezes",
+    "Descricao": "Keilla conta sua trajetória como desenvolvedora. Desde a época de ActionScript, passando por .NET, C# e JavaScript, seus projetos como o Front In Campinas e AfrotechBR, a importância da comunidade para sua carreira, Angular, como virou GDE, Google I/O, palestras nacionais e internacionais.",
+    "Link": "https://www.youtube.com/watch?v=8Xy8IHQWbdM"
+  },
+  {
+    "Episodio": 41,
+    "Entrevistado": "Lucas Santos",
+    "Descricao": "Lucas Santos conta sua trajetória em desenvolvimento, desde seus scripts bash, até o javaScript, passando por diversas linguagens. Ele fala sobre projetos como comunidades JavaScript, Front-End e o ABCDev. Como é viver no ABC e trabalhar em São Paulo e também sobre o que uma pessoa dev deve saber para poder atuar como dev sem problemas.",
+    "Link": "https://www.youtube.com/watch?v=Rk_U_qgzeTU"
+  },
+  {
+    "Episodio": 42,
+    "Entrevistado": "Anderson Casemiro",
+    "Descricao": "Anderson fala sobre sua carreira em desenvolvimento, clipper, programação fora da web, programação web, HTTP, evolução da programação. A criação do PHPSP. Palestras, CMS, E-Commerce, Fórums, IDEs, comunidades e muito mais.",
+    "Link": "https://www.youtube.com/watch?v=ruwBlUHFQwE"
+  },
+  {
+    "Episodio": 43,
+    "Entrevistado": "Marcela Godoy",
+    "Descricao": "Marcela fala sobre seus rolês com desenvolvimento, seu trabalho como tester de jogos fora do país, front-end, back-end, projetos legados, home-office, eventos, palestras, PHPWomen, veganismo nos eventos de TI e muito mais.",
+    "Link": "https://www.youtube.com/watch?v=ns1vqgB2Upg"
+  },
+  {
+    "Episodio": 44,
+    "Entrevistado": "Jakeliny Gracielly",
+    "Descricao": "Jakeliny fala sobre sua carreira como dev, desde a época de curso técnico, passando por agências e depois consultoria. Como é ser solutions leader e co-organizadora de algumas das maiores comunidades do país. A importância da comunidade, como é palestrar sobre temas além de técnicos e muito mais.",
+    "Link": "https://www.youtube.com/watch?v=hVtyuF-kkSs"
+  },
+  {
+    "Episodio": 45,
+    "Entrevistado": "Rafael Dantas",
+    "Descricao": "Rafael conta como trilhou sua carreira e dá uma aula sobre front-end, falando como o HTML e o CSS são negligenciados, mostrando a importância de cada um e o que você deve fazer para ser dev front-end de sucesso!",
+    "Link": "https://www.youtube.com/watch?v=nk3LfG8tOzc"
+  },
+  {
+    "Episodio": 46,
+    "Entrevistado": "Ariana Kataoka",
+    "Descricao": "Ariana fala sobre sua carreira como dev. Curso técnico, faculdade. Evolução de júnior para senior. PHPWomen e Women Dev Summit, sua transição para a Austrália e muito mais.",
+    "Link": "https://www.youtube.com/watch?v=j7cfqZSi2Ns"
+  },
+  {
+    "Episodio": 47,
+    "Entrevistado": "Carla Vieira",
+    "Descricao": "Carla Vieira fala sobre sua carreira dev, blogger, thumblr, inteligência artificial, BI, sindrome do impostor, periferia, USP Leste e muito mais.",
+    "Link": "https://www.youtube.com/watch?v=ujoX2ZvTY9U"
+  },
+  {
+    "Episodio": 48,
+    "Entrevistado": "William Grasel",
+    "Descricao": "William Grasel fala sobre sua carreira como dev back-end, full stack e depois front-end. ASP, VB, mainframes, JavaScript, SPAs, PWAs, Angular e GDE. E também sobre a comunidade AngularSP. Tá xow!",
+    "Link": "https://www.youtube.com/watch?v=tw-CnQyN94c"
+  },
+  {
+    "Episodio": 49,
+    "Entrevistado": "Jessica Felix",
+    "Descricao": "Jessica fala sobre como começou na área de desenvolvimento, após trabalhar na indústria de moda. Faculdades, eventos, hackathons, redes sociais para devs. Customer Success e Community Manager e muito mais.",
+    "Link": "https://www.youtube.com/watch?v=RU_ggZObggI"
+  },
+  {
+    "Episodio": 50,
+    "Entrevistado": "Juciellen Cabrera",
+    "Descricao": "Juciellen fala sobre sua carreira como desenvolvedora, PHP raiz, Scriptcase, comunidade, PHPWomen, conferências internacionais, palestrar no Brasil e sobre sua mudança para a Irlanda.",
+    "Link": "https://www.youtube.com/watch?v=xxL_zaWThQY"
+  },
+  {
+    "Episodio": 51,
+    "Entrevistado": "Marcivone Reis",
+    "Descricao": "Marcivone fala sobre sua carreira como dev, o projeto InterNorte, como é trabalhar com tecnologia no interior do Pará, parcerias, mercado de trabalho, dificuldades e sucessos!",
+    "Link": "https://www.youtube.com/watch?v=BbEvTwDS58Y"
+  },
+  {
+    "Episodio": 52,
+    "Entrevistado": "Davi Marcondes",
+    "Descricao": "Davi fala sobre como começou com TI, suas primeiras experiências, fala também de VB, programação para desktop e também de outras linguagens que ele utiliza como Kotlin e Go, além de ferramentas que hoje em dia ninguém usa.",
+    "Link": "https://www.youtube.com/watch?v=wKDyAzCAo8Q"
+  },
+  {
+    "Episodio": 53,
+    "Entrevistado": "Fábio Fernandes e Roque Junior",
+    "Descricao": "Fábio Fernandes e Roque Junior falam dos desafios de organizar um evento como o PHPeste, suas carreiras, curadoria, participação em comunidades e muito mais.",
+    "Link": "https://www.youtube.com/watch?v=teoykgQehtw"
+  },
+  {
+    "Episodio": "Pocket 1",
+    "Entrevistado": "Natália Raythz",
+    "Descricao": "Natália Raythz fala sobre python, falando da participação das Pyladies na Campus Party 2019, das utilizações da linguagem, mercado de trabalho e muito mais, nessa edição pocket do The Velopers.",
+    "Link": "https://youtu.be/1DVumi-FS-Q"
+  },
+  {
+    "Episodio": "Pocket 2",
+    "Entrevistado": "André Noel",
+    "Descricao": "André Noel (Vida de Programador) fala sobre seu início no mIRC, a criação do Vida de Programador, sua carreira como desenvolvedor, cartunista, humorista e professor. Dando também dicas de como começar a programar.",
+    "Link": "https://youtu.be/4qZTfyFsxRs"
+  },
+  {
+    "Episodio": "Pocket 3",
+    "Entrevistado": "Aline de Campos",
+    "Descricao": "Aline de Campos fala sobre sua carreira como desenvolvedora, meio acadêmico x mercado, envolvimento de universidades e comunidade.",
+    "Link": "https://www.youtube.com/watch?v=oHJYz3TBeCQ"
+  },
+  {
+    "Episodio": "Pocket 4",
+    "Entrevistado": "Fillipe Dornelas",
+    "Descricao": "Fillipe Dornelas fala um pouco da sua história de desenvolvimento, sua formação, como começou a programar, a importância da faculdade na sua vida, sua entrada na comunidade, como ingressar no mercado de trabalho.",
+    "Link": "https://www.youtube.com/watch?v=LbT52rHHk1c"
+  }
+]
