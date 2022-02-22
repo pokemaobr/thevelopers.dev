@@ -821,7 +821,6 @@ section {
 .portfolio .portfolio-wrap {
   transition: 0.3s;
   position: relative;
-  overflow: scroll;
   z-index: 1;
   background: rgba(0, 0, 0, 0.6);
 }
