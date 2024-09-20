@@ -15,7 +15,7 @@ if ($method == 'POST') {
 
         case 'Episodios':
         {
-            $episodios = json_decode(file_get_contents('assets/json/episodios.json'));
+            $episodios = json_decode(file_get_contents('assets/json/episodios.json', true));
 
             $entrevistado = $json->queryResult->parameters->entrevistado;
 
