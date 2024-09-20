@@ -10,6 +10,8 @@ if ($method == 'POST') {
     $req_dump = print_r( $requestBody, true );
     $fp = file_put_contents('../request.log', $req_dump );
     $json = json_decode($requestBody);
+
+    /*
     $intent = $json->queryResult->intent->displayName;
 
 
@@ -57,7 +59,7 @@ if ($method == 'POST') {
   ]
 }';
 
-    echo $response;
+    echo $response; */
 } else {
     echo 'Método não aceito';
 }
