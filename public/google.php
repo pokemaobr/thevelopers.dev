@@ -7,7 +7,7 @@ $method = $_SERVER['REQUEST_METHOD'];
 if ($method == 'POST') {
 
     $requestBody = file_get_contents('php://input');
-    $json = json_decode($requestBody);
+    //$json = json_decode($requestBody);
     //$intent = $json->queryResult->intent->displayName;
 
 
@@ -59,7 +59,7 @@ if ($method == 'POST') {
   ]
 }';
     echo $response;*/
-    echo $json;
+    echo $requestBody;
 } else {
     echo 'Método não aceito';
 }
