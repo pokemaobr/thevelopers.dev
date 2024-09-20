@@ -45,6 +45,8 @@ if ($method == 'POST') {
   ]
 }';}
 */
+
+    /*
     $response = '{
   "fulfillmentMessages": [
     {
@@ -56,7 +58,8 @@ if ($method == 'POST') {
     }
   ]
 }';
-    echo $response;
+    echo $response;*/
+    echo $json;
 } else {
     echo 'Método não aceito';
 }
