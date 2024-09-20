@@ -8,14 +8,14 @@ if ($method == 'POST') {
 
     $requestBody = file_get_contents('php://input');
     $json = json_decode($requestBody);
-    //$intent = $json->queryResult->intent->displayName;
+    $intent = $json->queryResult->intent->displayName;
 
 
     switch ($intent) {
 
         case 'Episodios':
         {
-            /*$episodios = json_decode(file_get_contents('assets/json/episodios.json', true));
+            $episodios = json_decode(file_get_contents('assets/json/episodios.json', true));
 
             $entrevistado = $json->queryResult->parameters->entrevistado;
 
@@ -33,7 +33,7 @@ if ($method == 'POST') {
                 ' - ' . $episodio['Descricao'] . ' - Assista pelo link: ' .
                 $episodio['Link'];
 
-*/
+
             $speech =  'foi';
             break;
         }
@@ -55,19 +55,6 @@ if ($method == 'POST') {
   ]
 }';
 
-
-
-    $response = '{
-  "fulfillmentMessages": [
-    {
-      "text": {
-        "text": [
-          "' . $json . '"
-        ]
-      }
-    }
-  ]
-}';
     echo $response;
 } else {
     echo 'Método não aceito';
