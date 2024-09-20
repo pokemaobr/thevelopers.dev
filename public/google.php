@@ -42,7 +42,6 @@ if ($method == 'POST') {
             $speech = 'nenhuma intenção corresponde a sua frase.';
     }
 
-    $speech = 'oi';
     $response = '{
   "fulfillmentMessages": [
     {
