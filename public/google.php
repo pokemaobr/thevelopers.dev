@@ -34,7 +34,6 @@ if ($method == 'POST') {
                 $episodio['Link'];
 
 
-            $speech =  'foi';
             break;
         }
 
