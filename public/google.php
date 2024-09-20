@@ -22,13 +22,15 @@ if ($method == 'POST') {
             if (empty($entrevistado)) {
 
                 $episodio = $episodios[array_rand($episodios, 1)];
+                $speech = '';
 
             } else {
                 $nomes = array_column($episodios, 'Entrevistado');
                 $episodio = $episodios[array_search($entrevistado, $nomes)];
+                $speech = 'Episódio Aleatório - ';
             }
 
-            $speech = "The Velopers #" . $episodio['Episodio'] .
+            $speech .= "The Velopers #" . $episodio['Episodio'] .
                 ' - Entrevista com: ' . $episodio['Entrevistado'] .
                 ' - ' . $episodio['Descricao'] . ' - Assista pelo link: ' .
                 $episodio['Link'];
