@@ -7,7 +7,7 @@ $method = $_SERVER['REQUEST_METHOD'];
 if ($method == 'POST') {
 
     $requestBody = file_get_contents('php://input');
-    $req_dump = print_r( $requestBody, true );
+    $req_dump = print_r( json_decode($requestBody ));
     $fp = file_put_contents('../request.log', $req_dump );
     $json = json_decode($requestBody);
 
