@@ -68,7 +68,6 @@ if ($method == 'POST') {
   ]
 }';
     echo $response;
-    echo $requestBody;
 } else {
     echo 'Método não aceito';
 }
