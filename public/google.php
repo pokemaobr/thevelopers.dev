@@ -7,11 +7,7 @@ $method = $_SERVER['REQUEST_METHOD'];
 if ($method == 'POST') {
 
     $requestBody = file_get_contents('php://input');
-    $req_dump = json_decode($requestBody);
-    $fp = file_put_contents('../request.log', print_r($req_dump) );
     $json = json_decode($requestBody);
-
-    /*
     $intent = $json->queryResult->intent->displayName;
 
 
@@ -19,7 +15,7 @@ if ($method == 'POST') {
 
         case 'Episodios':
         {
-            $episodios = json_decode(file_get_contents('assets/json/episodios.json', true));
+            $episodios = json_decode(file_get_contents('./assets/json/episodios.json', true));
 
             $entrevistado = $json->queryResult->parameters->entrevistado;
 
@@ -46,7 +42,7 @@ if ($method == 'POST') {
         default:
             $speech = 'nenhuma intenção corresponde a sua frase.';
     }
-*/
+
     $speech = 'oi';
     $response = '{
   "fulfillmentMessages": [
