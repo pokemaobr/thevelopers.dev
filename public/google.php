@@ -9,7 +9,7 @@ if ($method == 'POST') {
     $requestBody = file_get_contents('php://input');
     $json = json_decode($requestBody);
     $intent = $json->queryResult->intent->displayName;
-    $response = $json;
+    
 
 /*    switch ($intent) {
 
@@ -45,6 +45,17 @@ if ($method == 'POST') {
   ]
 }';}
 */
+    $response = '{
+  "fulfillmentMessages": [
+    {
+      "text": {
+        "text": [
+          "' . $json . '"
+        ]
+      }
+    }
+  ]
+}';
     echo $response;
 } else {
     echo 'Método não aceito';
