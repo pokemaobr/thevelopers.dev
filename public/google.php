@@ -1,7 +1,5 @@
 <?php
 
-header('Content-Type: application/json');
-
 set_time_limit(0);
 
 $method = $_SERVER['REQUEST_METHOD'];
