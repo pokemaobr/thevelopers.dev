@@ -15,7 +15,7 @@ if ($method == 'POST') {
 
         case 'Episodios':
         {
-            $episodios = json_decode(file_get_contents('assets/json/episodios.json', true));
+            /*$episodios = json_decode(file_get_contents('assets/json/episodios.json', true));
 
             $entrevistado = $json->queryResult->parameters->entrevistado;
 
@@ -33,7 +33,8 @@ if ($method == 'POST') {
                 ' - ' . $episodio['Descricao'] . ' - Assista pelo link: ' .
                 $episodio['Link'];
 
-
+*/
+            $speech =  'foi';
             break;
         }
 
