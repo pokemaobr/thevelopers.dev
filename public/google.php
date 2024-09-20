@@ -1,5 +1,7 @@
 <?php
 
+header('Content-Type: application/json');
+
 set_time_limit(0);
 
 $method = $_SERVER['REQUEST_METHOD'];
@@ -7,6 +9,8 @@ $method = $_SERVER['REQUEST_METHOD'];
 if ($method == 'POST') {
 
     $requestBody = file_get_contents('php://input');
+    $req_dump = print_r( $requestBody, true );
+    $fp = file_put_contents( 'request.log', $req_dump );
     $json = json_decode($requestBody);
     $intent = $json->queryResult->intent->displayName;
 
