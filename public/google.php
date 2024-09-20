@@ -4,8 +4,6 @@ set_time_limit(0);
 
 $method = $_SERVER['REQUEST_METHOD'];
 
-print $method;
-
 if ($method == 'POST') {
 
     $requestBody = file_get_contents('php://input');
