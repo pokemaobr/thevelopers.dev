@@ -46,7 +46,8 @@ if ($method == 'POST') {
         default:
             $speech = 'nenhuma intenção corresponde a sua frase.';
     }
-
+*/
+    $speech = 'oi';
     $response = '{
   "fulfillmentMessages": [
     {
@@ -59,7 +60,7 @@ if ($method == 'POST') {
   ]
 }';
 
-    echo $response; */
+    echo $response;
 } else {
     echo 'Método não aceito';
 }
